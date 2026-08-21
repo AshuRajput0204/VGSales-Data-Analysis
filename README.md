@@ -35,7 +35,7 @@ The dashboard provides an overview of global video game sales performance, inclu
 
 Dashboard Preview
 
-![Video Game Sales Dashboard](PowerBI/Dashboard_Overview.png)
+![Video Game Sales Dashboard](Dashboard_Overview.png)
 
 ---
 
