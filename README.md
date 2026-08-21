@@ -18,6 +18,14 @@ The project combines Python, Pandas, and Power BI to perform data analysis and c
 
 ---
 
+## 📂 Dataset
+
+The dataset used in this project is the Video Game Sales dataset from Kaggle.
+
+🔗 [Download Dataset – Video Game Sales](https://www.kaggle.com/datasets/gregorut/videogamesales)
+
+---
+
 📊 Power BI Dashboard
 
 The dashboard provides an overview of global video game sales performance, including:
